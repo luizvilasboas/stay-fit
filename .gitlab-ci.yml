@@ -19,6 +19,7 @@ deploy:
     name: production
     url: https://stay-fit-reactjs.netlify.app
   script:
+    - npm run build
     - netlify deploy --prod --dir=build --site=$NETLIFY_SITE_ID --auth=$NETLIFY_AUTH_TOKEN
   tags:
     - javascript
