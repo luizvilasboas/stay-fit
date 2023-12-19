@@ -23,7 +23,7 @@ Before you begin, make sure you have the following requirements installed on you
 Clone this repository to the desired folder on your machine:
 
 ```bash
-git clone https://github.com/olooeez/stay-fit.git
+git clone https://gitlab.com/olooeez/stay-fit.git
 ```
 
 ### Step 2: Install dependencies
@@ -55,8 +55,8 @@ The application will be available in your browser at [localhost:3000](http://loc
 
 ## Contributing
 
-If you wish to contribute to this project, feel free to open a pull request. We are open to all forms of contribution!
+If you wish to contribute to this project, feel free to open a merge request. We are open to all forms of contribution!
 
 ## License
 
-This project is licensed under the [Apache 2.0 License](https://github.com/olooeez/stay-fit/blob/main/LICENSE). Refer to the LICENSE file for more details.
+This project is licensed under the [Apache 2.0 License](https://gitlab.com/olooeez/stay-fit/-/blob/main/LICENSE). Refer to the LICENSE file for more details.
