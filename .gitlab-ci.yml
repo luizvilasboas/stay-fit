@@ -15,6 +15,9 @@ build:
 
 deploy:
   stage: deploy
+  enviroment:
+    name: production
+    url: https://stay-fit-reactjs.netlify.app
   script:
     - netlify deploy --prod --dir=build --site=$NETLIFY_SITE_ID --auth=$NETLIFY_AUTH_TOKEN
   tags:
