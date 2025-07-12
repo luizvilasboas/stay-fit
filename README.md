@@ -4,7 +4,7 @@ Stay-fit is a web application project developed in React, MaterialUI, and uses R
 
 ## Demo
 
-![Stay-fit Demo](https://gitlab.com/olooeez/stay-fit/-/raw/main/img/demo.png)
+![Stay-fit Demo](https://github.com/luizvilasboas/stay-fit/blob/main/img/demo.png?raw=true)
 
 You can find a live demo by clicking [here](https://stay-fit-reactjs.netlify.app).
 
@@ -23,7 +23,7 @@ Before you begin, make sure you have the following requirements installed on you
 Clone this repository to the desired folder on your machine:
 
 ```bash
-git clone https://gitlab.com/olooeez/stay-fit.git
+git clone https://github.com/luizvilasboas/stay-fit.git
 ```
 
 ### Step 2: Install dependencies
@@ -59,4 +59,4 @@ If you wish to contribute to this project, feel free to open a merge request. We
 
 ## License
 
-This project is licensed under the [Apache 2.0 License](https://gitlab.com/olooeez/stay-fit/-/blob/main/LICENSE). Refer to the LICENSE file for more details.
+This project is licensed under the [Apache 2.0 License](https://github.com/luizvilasboas/stay-fit/blob/main/LICENSE). Refer to the LICENSE file for more details.
